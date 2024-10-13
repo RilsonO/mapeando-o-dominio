@@ -1,0 +1,23 @@
+{
+  "name": "mapeando-o-dominio",
+  "version": "1.0.0",
+  "description": "Teste de módulo `Design dirigido à domínio",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.6.1",
+    "typescript": "^5.6.2",
+    "vite-tsconfig-paths": "^5.0.1",
+    "vitest": "^2.1.1"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13"
+  }
+}
